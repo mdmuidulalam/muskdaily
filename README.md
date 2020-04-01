@@ -12,6 +12,9 @@
 1. [nodeJs](https://nodejs.org/en/) (Version: 12.14.0)
 2. [npm](https://www.npmjs.com/get-npm) (Version: 6.13.4)
 
+#### Step III: Set the environment variable
+1. In windows, set the environment variable to get node and npm accessible from any location of the computer.
+
 # Build and Test
 
 **Let's run muskdaily web here**
