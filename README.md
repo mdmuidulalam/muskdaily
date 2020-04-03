@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Introduction 
 
-You can use the [editor on GitHub](https://github.com/mdmuidulalam/muskdaily/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Getting Started
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Let's set up musk daily web here**
 
-### Markdown
+#### Step I: Clone the muskdaily repository
+1. Clone repo on local machine
+2. Checkout development branch. (Development is the latest updated branch, development is done here. Master is the release breanch)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Step II: Install NodeJs and NPM
+1. [nodeJs](https://nodejs.org/en/) (Version: 12.14.0)
+2. [npm](https://www.npmjs.com/get-npm) (Version: 6.13.4)
 
-```markdown
-Syntax highlighted code block
+#### Step III: Set the environment variable
+1. In windows, set the environment variable to get node and npm accessible from any location of the computer.
 
-# Header 1
-## Header 2
-### Header 3
+# Build and Test
 
-- Bulleted
-- List
+**Let's run muskdaily web here**
+1. Run ```npm install``` command on root directory to get all the node packages.
+2. Then run ```npm start``` command on root directory to run the web locally.
 
-1. Numbered
-2. List
+Web should be up and running on ```http://localhost:3000/```
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mdmuidulalam/muskdaily/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Contribute
+Coming soon...
